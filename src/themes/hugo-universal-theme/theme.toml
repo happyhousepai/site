@@ -1,0 +1,12 @@
+name = "Universal"
+license = "MIT"
+licenselink = "https://github.com/happyhousepai/site/blob/master/LICENSE"
+description = "A port of the Universal theme for happyhousepai.com"
+homepage = "http://www.happyhousepai.com/"
+tags = ["blog", "company", "portfolio", "projects", "minimal", "responsive"]
+features = ["themes", "minimal", "responsive"]
+min_version = 0.15
+
+[author]
+    name = "jerjungle"
+    homepage = "https://github.com/jerjungle"
