@@ -18,14 +18,14 @@ paginate = 1
 # Main menu
 
 [[menu.main]]
-    name = "Home"
-    url  = "/"
+    name = "Make a booking"
+    url  = "https://www.hostelworld.com/hosteldetails.php/Happy-House-Backpackers/Pai/87667"
     weight = 1
 
 [[menu.main]]
-    name = "Location"
+    name = "Our location"
     identifier = "location"
-    url  = "/location/"
+    url  = "https://www.google.com/maps/place/Happy+House+Backpackers/@19.356146,98.4356003,17z/data=!3m1!4b1!4m5!3m4!1s0x30da81cc897f8e3b:0x70aeb6e24f2b8c3d!8m2!3d19.356146!4d98.437789"
     weight = 2
 
 # Top bar social links menu
