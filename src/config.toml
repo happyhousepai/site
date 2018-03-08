@@ -124,7 +124,7 @@ paginate = 1
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Testimonials"
-    subtitle = "We have had many guests and we always like to hear they from the and satisfied. Have a look what our clients said about us."
+    subtitle = "We have had many guests and we always like to hear from them."
 
 [params.see_more]
     enable = false
